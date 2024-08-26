@@ -3,3 +3,37 @@ h1{
     justify-content: center;
     color: green;
 }
+p{
+    /* display: flex; */
+}
+.label{
+    display: flex;
+    color: rgb(35, 164, 245);
+    margin: 0px 0px 0px 100px
+}
+.labelRight{
+    display: flex;
+    color: rgb(35, 164, 245); 
+    position: absolute;
+    right: 311px;
+    top: 80px;
+}
+#selectCity{
+    display: flex;
+    border: 1px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px
+}
+#selectCourse{
+    display: flex;
+    border: 1px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    right: 125px;
+    top: 98px;
+}

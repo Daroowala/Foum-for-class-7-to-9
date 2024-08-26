@@ -18,17 +18,42 @@ p{
     right: 311px;
     top: 80px;
 }
+.labelRight2{
+    display: flex;
+    color: rgb(35, 164, 245); 
+    position: absolute;
+    right: 367px;
+    top: 158px; 
+}
 #selectCity{
     display: flex;
-    border: 1px solid rgb(151, 235, 140);
+    border: 2px solid rgb(151, 235, 140);
     width: 325px;
     height: 40px;
     border-radius: 6px;
     margin: 0px 0px 0px 100px
 }
+#fullName{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    top: 177px;
+    left: 8px;
+}
+.label2{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    top: 158px;
+    right: 825px;
+}
 #selectCourse{
     display: flex;
-    border: 1px solid rgb(151, 235, 140);
+    border: 2px solid rgb(151, 235, 140);
     width: 325px;
     height: 40px;
     border-radius: 6px;
@@ -36,4 +61,180 @@ p{
     position: absolute;
     right: 125px;
     top: 98px;
+}
+#fatherName{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    right: 125px;
+    top: 177px;
+}
+.label3{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    bottom: 350px;
+    left: 109px;
+}
+#Email{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    left: 8px;
+    top: 258px; 
+}
+.labelRight3{
+    display: flex;
+    color: rgb(35, 164, 245); 
+    position: absolute;
+    right: 410px;
+    top: 237px; 
+}
+#Phone{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    right: 125px;
+    bottom: 306px; 
+}
+.label4{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    bottom: 266px;
+    left: 109px; 
+}
+#CNIC{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    left: 8px;
+    bottom: 221px; 
+}
+.labelRight4{
+    display: flex;
+    color: rgb(35, 164, 245); 
+    position: absolute;
+    right: 291px;
+    top: 322px; 
+}
+#fatherCnic{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    right: 125px;
+    bottom: 221px;
+}
+.label5{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    bottom: 185px;
+    left: 109px
+}
+#dateOfBirth{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    left: 8px;
+    bottom: 140px;
+}
+.labelRight5{
+    display: flex;
+    color: rgb(35, 164, 245); 
+    position: absolute;
+    right: 366px;
+    top: 404px; 
+}
+#selectGender{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    right: 125px;
+    bottom: 140px; 
+}
+.label6{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    bottom: 103px;
+    left: 109px
+}
+#Address{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    left: 8px;
+    bottom: 58px;
+    width: 770px;
+}
+.label7{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    bottom: 20px;
+    left: 109px
+}
+#lastQualif{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    left: 8px;
+    bottom: -27px;
+    width: 770px;
+}
+.label8{
+    display: flex;
+    color: rgb(35, 164, 245);
+    position: absolute;
+    bottom: -65px;
+    left: 109px
+}
+#Laptop{
+    display: flex;
+    border: 2px solid rgb(151, 235, 140);
+    width: 325px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0px 0px 0px 100px;
+    position: absolute;
+    left: 8px;
+    bottom: -115px;
+    width: 770px;
 }

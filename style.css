@@ -238,3 +238,9 @@ p{
     bottom: -115px;
     width: 770px;
 }
+.picLabel{
+    display: flex;
+    position: absolute;
+    left: 110px;
+    bottom: -220px;
+}
